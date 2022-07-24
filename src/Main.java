@@ -2,6 +2,8 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
+
+    //all the static methods
     public static double getAverage(int values[]) {
         double sum1 = 0;
         for (int e = 0; e < values.length; e++) {
